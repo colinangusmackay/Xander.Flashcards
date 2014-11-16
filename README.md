@@ -5,4 +5,15 @@ A flashcard application that is part of a series of blog posts on working with n
 
 Releases - Which coincide with blog posts
 -----------------------------------------
-* Node.js with Express - Getting form data : *Release goes here*
+* **[Node.js with Express - Getting form data](http://colinmackay.scot/2014/11/17/node-js-with-express-getting-form-data/ "Node.js with Express - Getting Form Data")** : *[Source code snapshot](https://github.com/colinangusmackay/Xander.Flashcards/releases/tag/0.0.1)*
+
+License Information
+-------------------
+The code is licensed with an MIT license - see the [License](https://github.com/colinangusmackay/Xander.Flashcards/blob/master/LICENSE) file.
+
+Dependent libraries come with their own license. See the relevant websites for more details:
+* [Twitter Bootstrap](http://getbootstrap.com/)
+
+*Note: I've only included those that were not excluded from the source code. Other dependent libraries, e.g. those available through npm, are not listed here as they are not stored directly in this source code repository.*
+
+The images for the flashcards were obtained from a public domain source and have no rights attached to them.

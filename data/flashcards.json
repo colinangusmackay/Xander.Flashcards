@@ -1,0 +1,14 @@
+{"languages":[
+  {"language":"en","name":"English","image":"england-01.svg"},
+  {"language":"es","name":"Español","image":"spain-01.svg"},
+  {"language":"fr","name":"Français","image":"france-01.svg"},
+  {"language":"nl","name":"Nederlands","image":"netherlands-01.svg"},
+  {"language":"de","name":"Deutsch","image":"germany-01.svg"},
+  {"language":"ca","name":"català","image":"catalunya-01.svg"}
+],
+"flashcards":[
+  {"image":"apple-01.svg", "captions":[
+    {"language":"en","caption":"Apple"},
+    {"language":"es","caption":"La manzana"}
+  ]}
+]}

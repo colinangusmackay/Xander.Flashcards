@@ -1,0 +1,15 @@
+.welcome-language-picker .row{
+    margin-top:10px;
+
+}
+
+.welcome-language-picker img{
+    width:90%;
+    padding:0;
+    margin: 5%;
+    border:1px solid #000;
+}
+
+.welcome-language-picker .set-language-button-row{
+    text-align: center;
+}

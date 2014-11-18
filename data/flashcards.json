@@ -7,8 +7,68 @@
   {"language":"ca","name":"català","image":"catalunya-01.svg"}
 ],
 "flashcards":[
-  {"image":"apple-01.svg", "captions":[
-    {"language":"en","caption":"Apple"},
-    {"language":"es","caption":"La manzana"}
+  {"image":["apple-01.svg"], "captions":[
+    {"language":"ca","caption":"la poma"},
+    {"language":"de","caption":"der Apfel"},
+    {"language":"en","caption":"The apple"},
+    {"language":"es","caption":"La manzana"},
+    {"language":"fr","caption":"La pomme"},
+    {"language":"nl","caption":"De appel"}
+  ]},
+  {"image":["australia-01.svg"],"captions":[
+    {"language":"ca","caption":"Austràlia"},
+    {"language":"de","caption":"Australien"},
+    {"language":"en","caption":"Australia"},
+    {"language":"es","caption":"Australia"},
+    {"language":"fr","caption":"Australie"},
+    {"language":"nl","caption":"Australië"}
+  ]},
+  {"image":["austria-01.svg"],"captions":[
+    {"language":"ca","caption":"Àustria"},
+    {"language":"de","caption":"Österreich"},
+    {"language":"en","caption":"Austria"},
+    {"language":"es","caption":"Austria"},
+    {"language":"fr","caption":"Autriche"},
+    {"language":"nl","caption":"Oostenrijk"}
+  ]},
+  {"image":["baby-01.svg"],"captions":[
+    {"language":"ca","caption":"el nadó"},
+    {"language":"de","caption":"das Baby"},
+    {"language":"en","caption":"The baby"},
+    {"language":"es","caption":"El bebé"},
+    {"language":"fr","caption":"le bébé"},
+    {"language":"nl","caption":"de baby"}
+  ]},
+  {"image":["banana-01.svg"],"captions":[
+    {"language":"ca","caption":"el plàtan"},
+    {"language":"de","caption":"die Banane"},
+    {"language":"en","caption":"The banana"},
+    {"language":"es","caption":"El plátano"},
+    {"language":"fr","caption":"la banane"},
+    {"language":"nl","caption":"de banaan"}
+  ]},
+  {"image":["belgium-01.svg"],"captions":[
+    {"language":"ca","caption":"Bèlgica"},
+    {"language":"de","caption":"Belgien"},
+    {"language":"en","caption":"Belgium"},
+    {"language":"es","caption":"Bélgica"},
+    {"language":"fr","caption":"Belgique"},
+    {"language":"nl","caption":"België"}
+  ]},
+  {"image":["broccoli-01.svg"],"captions":[
+    {"language":"ca","caption":"el bròquil"},
+    {"language":"de","caption":"der Brokkoli"},
+    {"language":"en","caption":"The broccoli"},
+    {"language":"es","caption":"El brócoli"},
+    {"language":"fr","caption":"le brocoli"},
+    {"language":"nl","caption":"de broccoli"}
+  ]},
+  {"image":["calculator-01.svg"],"captions":[
+    {"language":"ca","caption":"la calculadora"},
+    {"language":"de","caption":"der Taschenrechner"},
+    {"language":"en","caption":"The calculator"},
+    {"language":"es","caption":"La calculadora"},
+    {"language":"fr","caption":"la calculatrice"},
+    {"language":"nl","caption":"de calculator"}
   ]}
 ]}

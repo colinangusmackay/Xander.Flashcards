@@ -13,6 +13,7 @@ The code is licensed with an MIT license - see the [License](https://github.com/
 
 Dependent libraries come with their own license. See the relevant websites for more details:
 * [Twitter Bootstrap](http://getbootstrap.com/)
+* [jQuery](http://jquery.com/)
 
 *Note: I've only included those that were not excluded from the source code. Other dependent libraries, e.g. those available through npm, are not listed here as they are not stored directly in this source code repository.*
 

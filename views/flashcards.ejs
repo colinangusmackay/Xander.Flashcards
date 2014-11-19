@@ -16,12 +16,14 @@
 </div>
     <div class="flashcard-area">
         <% for(var i=0; i<cards.length; i++) {
-           var card = cards[i];
-            var isStartRow = (i%2)===0;
-            var isEndRow = ((i+1)%2) === 0;%>
+           var card = cards[i],
+               imageIndex = Math.floor(Math.random() * card.card.image.length),
+               image = card.card.image[imageIndex],
+               isStartRow = (i%2)===0,
+               isEndRow = ((i+1)%2) === 0;%>
         <% if (isStartRow){%><div class="row flashcard-image-row"><%}%>
         <div class="col-md-1"></div>
-        <div class="col-md-4"><img data-is-correct="<%= (pick===i) %>" src="/flashcard-images/<%= card.card.image[0] %>"></div>
+        <div class="col-md-4"><img data-is-correct="<%= (pick===i) %>" src="/flashcard-images/<%= image %>"></div>
         <div class="col-md-1"></div>
         <% if (isEndRow){%></div><%}%>
         <%}%>

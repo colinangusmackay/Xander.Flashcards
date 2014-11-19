@@ -10,12 +10,12 @@
   {"image":["apple-01.svg"], "captions":[
     {"language":"ca","caption":"la poma"},
     {"language":"de","caption":"der Apfel"},
-    {"language":"en","caption":"The apple"},
+    {"language":"en","caption":"the apple"},
     {"language":"es","caption":"La manzana"},
     {"language":"fr","caption":"La pomme"},
     {"language":"nl","caption":"De appel"}
   ]},
-  {"image":["australia-01.svg"],"captions":[
+  {"image":["australia-01.svg","australia-02.svg"],"captions":[
     {"language":"ca","caption":"Austràlia"},
     {"language":"de","caption":"Australien"},
     {"language":"en","caption":"Australia"},
@@ -34,7 +34,7 @@
   {"image":["baby-01.svg"],"captions":[
     {"language":"ca","caption":"el nadó"},
     {"language":"de","caption":"das Baby"},
-    {"language":"en","caption":"The baby"},
+    {"language":"en","caption":"the baby"},
     {"language":"es","caption":"El bebé"},
     {"language":"fr","caption":"le bébé"},
     {"language":"nl","caption":"de baby"}
@@ -42,7 +42,7 @@
   {"image":["banana-01.svg"],"captions":[
     {"language":"ca","caption":"el plàtan"},
     {"language":"de","caption":"die Banane"},
-    {"language":"en","caption":"The banana"},
+    {"language":"en","caption":"the banana"},
     {"language":"es","caption":"El plátano"},
     {"language":"fr","caption":"la banane"},
     {"language":"nl","caption":"de banaan"}
@@ -58,7 +58,7 @@
   {"image":["broccoli-01.svg"],"captions":[
     {"language":"ca","caption":"el bròquil"},
     {"language":"de","caption":"der Brokkoli"},
-    {"language":"en","caption":"The broccoli"},
+    {"language":"en","caption":"the broccoli"},
     {"language":"es","caption":"El brócoli"},
     {"language":"fr","caption":"le brocoli"},
     {"language":"nl","caption":"de broccoli"}
@@ -66,9 +66,57 @@
   {"image":["calculator-01.svg"],"captions":[
     {"language":"ca","caption":"la calculadora"},
     {"language":"de","caption":"der Taschenrechner"},
-    {"language":"en","caption":"The calculator"},
+    {"language":"en","caption":"the calculator"},
     {"language":"es","caption":"La calculadora"},
     {"language":"fr","caption":"la calculatrice"},
     {"language":"nl","caption":"de calculator"}
+  ]},
+  {"image":["canada-01.svg","canada-02.svg"],"captions":[
+    {"language":"ca","caption":"Canadà"},
+    {"language":"de","caption":"Kanada"},
+    {"language":"en","caption":"Canada"},
+    {"language":"es","caption":"Canadá"},
+    {"language":"fr","caption":"Canada"},
+    {"language":"nl","caption":"Canada"}
+  ]},
+  {"image":["carrot-01.svg","carrot-02.svg"],"captions":[
+    {"language":"ca","caption":"la pastanaga"},
+    {"language":"de","caption":"die Karotte"},
+    {"language":"en","caption":"the carrot"},
+    {"language":"es","caption":"la zanahoria"},
+    {"language":"fr","caption":"la carotte"},
+    {"language":"nl","caption":"de wortel"}
+  ]},
+  {"image":["cat-01.svg","cat-02.svg"],"captions":[
+    {"language":"ca","caption":"el gat"},
+    {"language":"de","caption":"die Katze"},
+    {"language":"en","caption":"the cat"},
+    {"language":"es","caption":"el gato"},
+    {"language":"fr","caption":"le chat"},
+    {"language":"nl","caption":"de kat"}
+  ]},
+  {"image":["catalunya-01.svg"],"captions":[
+    {"language":"ca","caption":"Catalunya"},
+    {"language":"de","caption":"Katalonien"},
+    {"language":"en","caption":"Catalonia"},
+    {"language":"es","caption":"Cataluña"},
+    {"language":"fr","caption":"catalogne"},
+    {"language":"nl","caption":"Catalonië"}
+  ]},
+  {"image":["denmark-01.svg"],"captions":[
+    {"language":"ca","caption":"Dinamarca"},
+    {"language":"de","caption":"Dänemark"},
+    {"language":"en","caption":"Denmark"},
+    {"language":"es","caption":"Dinamarca"},
+    {"language":"fr","caption":"Danemark"},
+    {"language":"nl","caption":"Denemarken"}
+  ]},
+  {"image":["dog-01.svg","dog-02.svg"],"captions":[
+    {"language":"ca","caption":"el gos"},
+    {"language":"de","caption":"der Hund"},
+    {"language":"en","caption":"the dog"},
+    {"language":"es","caption":"el perro"},
+    {"language":"fr","caption":"le chien"},
+    {"language":"nl","caption":"de hond"}
   ]}
 ]}

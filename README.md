@@ -6,6 +6,9 @@ A flashcard application that is part of a series of blog posts on working with n
 Releases - Which coincide with blog posts
 -----------------------------------------
 * **[Node.js with Express - Getting form data](http://colinmackay.scot/2014/11/17/node-js-with-express-getting-form-data/ "Node.js with Express - Getting Form Data")** : *[Source code snapshot](https://github.com/colinangusmackay/Xander.Flashcards/releases/tag/0.0.1)*
+* **[Node.js with Express - Come to the dark side. We have cookies!](http://colinmackay.scot/2014/11/18/node-js-with-express-come-to-the-dark-side-we-have-cookies/)** : *[Source code snapshot](https://github.com/colinangusmackay/Xander.Flashcards/releases/tag/0.0.2)*
+* **[Deploying a Node.js with Express application on Azure](http://colinmackay.scot/2014/11/23/deploying-a-node-js-with-express-application-on-azure/)** : *[Source code snapshot](https://github.com/colinangusmackay/Xander.Flashcards/releases/tag/1.0.0)*
+
 
 License Information
 -------------------

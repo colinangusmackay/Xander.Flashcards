@@ -8,5 +8,8 @@
     "express": "^4.10.2",
     "express-ejs-layouts": "^1.1.0",
     "underscore": "^1.7.0"
+  },
+  "scripts": {
+    "start": "node app.js"
   }
 }

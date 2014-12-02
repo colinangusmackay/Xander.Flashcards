@@ -11,7 +11,7 @@ var flashcard = require("./routes/flashcard.js");
 
 // Set up the application
 var app = express();
-app.set("port", process.env.PORT || 3000);
+app.set("port", process.env.PORT || 8080);
 app.set("view engine","ejs");
 app.use(ejsLayouts);
 app.set("layout extractScripts", true);
